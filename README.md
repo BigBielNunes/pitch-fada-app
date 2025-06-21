@@ -77,6 +77,20 @@ Impacto Esperado
 O FADA visa oferecer suporte e autonomia para mulheres em situação de violência de gênero, reduzindo a subnotificação e acelerando o acesso a serviços de apoio. O app é uma ferramenta de empoderamento, que transforma dados em proteção e esperança, proporcionando um caminho seguro e informado para quem sofre violência.
 Contribuindo
 
+Links de Refêrencia:
+
+ **Correio Braziliense**  -  DF registra 75 processos diários por violência contra mulheres em 2024:
+https://www.correiobraziliense.com.br/cidades-df/2025/01/7034549-df-registra-75-processos-diarios-por-violencia-contra-mulheres-em-2024.html#google_vignette
+
+**Gov**  -  No Distrito Federal, Ligue 180 registra aumento de 37% nos atendimentos em 2024:
+https://www.gov.br/secom/pt-br/assuntos/noticias-regionalizadas/ligue-180-balanco-2024/no-distrito-federal-ligue-180-registra-aumento-de-37-nos-atendimentos-em-2024
+
+**Observatório da Mulher**  -  Crimes de violência doméstica ou familiar (Segundo lei n° 11.340/2006 - Lei Maria da Penha):
+https://www.observatoriodamulher.df.gov.br/mulher-e-seguranca-violencia-domestica-2024/
+
+**Câmara dos Deputados**  -  Estudo do Senado aponta subnotificação de 61% no registro de violência contra mulher:
+https://www.camara.leg.br/noticias/1038979-estudo-do-senado-aponta-subnotificacao-de-61-no-registro-de-violencia-contra-mulher/
+
 Se você deseja contribuir para o projeto ou tem sugestões para melhorar o FADA, por favor, entre em contato conosco ou envie um pull request!
 Licença
 
