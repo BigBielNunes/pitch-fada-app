@@ -6,7 +6,7 @@
 
 
 Ferramenta de apoio para mulheres em situação de violência de gênero
-Descrição
+Descrição:
 
 O FADA é um aplicativo desenvolvido para ajudar mulheres a identificar sinais de violência de gênero em seus relacionamentos e oferecer informações sobre como buscar apoio especializado. Através de um simples questionário, o app monitora o humor e o contexto das usuárias, detectando padrões e sinais de risco. Quando identificado um possível risco, o FADA orienta sobre onde procurar ajuda, seja em delegacias, centros de reabilitação ou serviços de apoio psicológico.
 
